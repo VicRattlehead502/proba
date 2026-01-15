@@ -30,3 +30,9 @@ git checkout -b tb2
  git commit -m "work"
  git push
  git checkout main - 7:45 (proverqvam si dali oshte e nasrano)
+ git add -A
+ git commit -m "spisuk update"
+ git push - 7:46
+ git branch - 4:47 (proverqvam si branchovete)
+ - qsnooooo ne moje da si smenqm branchovete kato ne sum commitnala promeni i raboti i shte mi bude overwritten
+ -------- she pravq tozi file izvun repoto za da mi e po-lesno
