@@ -3,3 +3,20 @@ pravq file sus spisuk na komandi - 23:01
 kopiram repoto lokalno - 23:03
 setup-vam file-ove - 23:03
 -------------------------------- karat me da si lqgam 
+file setup - 7:12
+git status - 7:17
+git add -A - 7:17
+git commit -m "file setup" - 7:18
+git push - 7:18
+git branch changes1 - 7:19
+git branch changes2 - 7:19
+git branch (za da si vidq che sum gi suzdala) - 7:20
+git checkout changes1 - 7:20
+file setup 2 - 7:21
+git checkout changes2 - 7:26
+file setup AGAIN - 7:26
+git checkout changes1 - za da vidq kakvo se sluchva
+------- wtf zashto se promenq i v toq branch neshto greshno pravq(stava ednakvo v branchovete)
+ZASHTO PROMENITE SA OTISHLI V MAIN WTF
+NIKOGA poveche nqma da polzvam vim wtf
+actually sum tolkova oburkana probvam pak po drug nachin
